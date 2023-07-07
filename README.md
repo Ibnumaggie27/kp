@@ -74,9 +74,3 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## Preview
-
-![Screenshot 2022-11-08 091617](https://user-images.githubusercontent.com/61069138/200460242-f67d1e6c-f963-4239-ae6f-f4c43bcdd006.png)
-![Screenshot 2022-11-08 091725](https://user-images.githubusercontent.com/61069138/200460249-771bdd9d-2441-4f1f-b942-5e5081b3c554.png)
-![Screenshot 2022-11-08 091323](https://user-images.githubusercontent.com/61069138/200460252-5ad6418a-08f3-455b-add9-9f90bb9bae28.png)
-
